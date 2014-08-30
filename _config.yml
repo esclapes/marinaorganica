@@ -10,7 +10,7 @@ title:            Marina orgánica
 tagline:          'Biopoder en manos del agricultor'
 description:      'En Marina orgánica producimos abonos y biofertilizantes buenos para la tierra, las personas y el bolsillo del agricultor.'
 url:              http://hub.esclap.es/
-baseurl:          '/marinaorganica/'
+baseurl:          '/marinaorganica'
 paginate:         5
 
 author:
