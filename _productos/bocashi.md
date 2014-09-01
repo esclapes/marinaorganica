@@ -22,21 +22,21 @@ Su elaboración a base de volteo diario se compone de los siguiente ingredientes
 
 ## Microelementos:
 
-* Nitrógeno, Potasio, Fósforo, Calcio, Magenesio, Hierro, Cobre, Zinc, Manganeso, Boro, Sílice.
-* Sodio, Molibdenos, Estroncio, Cobalto, Níquel, Bario...etc..
+* Nitrógeno, Potasio, Fósforo, Calcio, Magnesio, Hierro, Cobre, Zinc, Manganeso, Boro, Sílice.
+* Sodio, Molibdenos, Estroncio, Cobalto, Níquel, Bario, ...
 
 ## Ventajas
 
 * Fácil de transportar, manejar y aplicar.
 * Elimina factores de riesgo para la salud de los trabajadores y consumidores.
-* Protegen el medio ambiente.
-* Mejoran gradualmente la fertilidad de la tierra.
-* Estimulan y aceleran el ciclo vegetativo de las plantas.
+* Protege el medio ambiente.
+* Mejora gradualmente la fertilidad de la tierra.
+* Estimula y acelera el ciclo vegetativo de las plantas.
 * Alimenta la macro y microbiología beneficiosa del suelo.
 * Mayor rendimiento de número de plantas por hectárea y mayor rentabilidad económica.
 * Fuente constante de materia orgánica para el sostenimiento de la vida en la tierra.
 * El suelo conserva la humedad y amortigua mejor los cambios de temperatura, economizándose el volumen de agua y número de riegos por cada cultivo.
-* Reducen el escurrimiento superficial del agua.
+* Reduce el escurrimiento superficial del agua.
 * Mejoran la permeabilidad de los suelos y su bioestructura.
 * Favorece la colonización del suelo por la microbiología.
 * Reduce los costes de producción.
@@ -44,7 +44,7 @@ Su elaboración a base de volteo diario se compone de los siguiente ingredientes
 
 ## ¿Cómo se aplica?
 
-Aunque le aconsejamos que experimentes por ti mismo las cantidades y ventajas del uso de esta abono orgánico fermetado, aquí incluimos unas indicaciones a modo de sugerencia.
+Aunque le aconsejamos que experimentes por ti mismo las cantidades y ventajas del uso de esta abono orgánico fermentado, aquí incluimos unas indicaciones a modo de sugerencia.
 
 ### Recomendaciones generales
 
