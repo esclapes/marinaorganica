@@ -1,11 +1,10 @@
 ---
-layout: page
 title: Bocashi de gallinaza
 price: 0.30 €/Kg
-slug: bocashi
+weight: 1
 ---
 
-### Abono orgánico fermentado mediante un proceso de semidescomposición aeróbica del estiércol por medio de microorganismos.
+## Abono orgánico fermentado mediante un proceso de semidescomposición aeróbica del estiércol por medio de microorganismos.
 
 Su elaboración a base de volteo diario se compone de los siguiente ingredientes:
 
@@ -44,9 +43,13 @@ Su elaboración a base de volteo diario se compone de los siguiente ingredientes
 
 ## ¿Cómo se aplica?
 
-Aunque le aconsejamos que experimentes por ti mismo las cantidades y ventajas del uso del abono orgánico fermetado, aquí incluimos unas indicaciones a modo de sugerencia.
+Aunque le aconsejamos que experimentes por ti mismo las cantidades y ventajas del uso de esta abono orgánico fermetado, aquí incluimos unas indicaciones a modo de sugerencia.
 
-Se recomienda de 1-8 toneladas por hectárea. Aplicar enterrado al transplantar o con abonadora o arado. No se debe esperar más de dos meses a utilizar en el campo.
+### Recomendaciones generales
+
+Se recomienda usar de 1-8 toneladas por hectárea (cada año se puede usar menos que el anterior).
+
+Aplicar enterrado al transplantar o con abonadora o arado. No se debe esperar más de dos meses a utilizar en el campo.
 
 ### Para plantel
 
