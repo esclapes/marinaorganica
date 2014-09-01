@@ -74,6 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
   max-width: 28rem;
+  clear: both;
 }
 @media (min-width: 38em) {
   .container {
@@ -94,6 +95,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .masthead {
+  display: block;
   padding-top:    1rem;
   padding-bottom: 0;
   margin-bottom: 1rem;
@@ -115,10 +117,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 48em) {
-  .masthead-title {
+  .masthead {
     text-align: center;
   }
-  .masthead-title small {
+  .masthead img {
+    display: block;
+  }
+  .masthead h2 {
     display: none;
   }
 }
