@@ -16,7 +16,6 @@ paginate:         5
 collections:
   productos:
     output:       true
-    layout:       page
 
 author:
   name:           'Eduardo Esclapes'

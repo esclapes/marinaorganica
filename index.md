@@ -24,4 +24,7 @@ Actualmente tenemos disponibles los siguientes productos:
     </h3>
   </div>
   {% endfor %}
+  
+  {% include pedidos.html %}
+  
 </div>

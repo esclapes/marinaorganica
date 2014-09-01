@@ -2,6 +2,7 @@
 title: Bocashi de gallinaza
 price: 0.30 €/Kg
 weight: 1
+layout: producto
 ---
 
 ## Abono orgánico fermentado mediante un proceso de semidescomposición aeróbica del estiércol por medio de microorganismos.
