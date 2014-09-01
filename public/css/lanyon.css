@@ -104,33 +104,22 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   margin: 0;
   padding: 0;
-  width:40%;
-}
-
-.masthead a {
-  float: left;
 }
 
 .masthead h2 {
-  width: 60%;
   font-weight: 400;
   color: #c0c0c0;
-  float: left;
+  letter-spacing: 0;
+  float: right;
   display: inline-block;
 }
 
 @media (max-width: 48em) {
-  .masthead img {
-    width: 100%;
-    display: block;
-    margin:0 auto;
-    float: none;
+  .masthead-title {
+    text-align: center;
   }
-  .masthead h2 {
-    width: 100%;
-    display: block;
-    font-size: 0.6em;
-    float:none;
+  .masthead-title small {
+    display: none;
   }
 }
 
