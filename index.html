@@ -3,18 +3,16 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
+Hello
+
+<div class="productos">
+  {% for producto in site.productos %}
+  <div class="producto">
+    <h1 class="producto-title">
+      <a href="{{ site.baseurl }}{{ producto.url }}">
+        {{ producto.title }}
+      </a> - {{ producto.price }}
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
   </div>
   {% endfor %}
 </div>

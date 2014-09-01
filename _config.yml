@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      highlighter
 
 # Permalinks
 permalink:        blog/:title
@@ -9,13 +9,13 @@ permalink:        blog/:title
 title:            Marina orgánica
 tagline:          'Biopoder en manos del agricultor'
 description:      'En Marina orgánica producimos abonos y biofertilizantes buenos para la tierra, las personas y el bolsillo del agricultor.'
-url:              http://hub.esclap.es/
-baseurl:          '/marinaorganica'
+url:              http://www.marinaorganica.es/
+baseurl:          ''
 paginate:         5
 
 collections:
   productos:
-    permalink:    :name
+    output:       true
 
 author:
   name:           'Eduardo Esclapes'
