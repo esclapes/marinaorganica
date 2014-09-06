@@ -7,7 +7,7 @@ title: Home
 
 # Biopoder en manos del agricultor.
 
-En _Marina orgánica_ producimos abonos y biofertilizantes orgánicos siguiendo recetas de la agricultura regenerativa. Nuestros productos son buenos para la tierra, las personas, la cosecha y el bolsido del agricultor.
+En _Marina orgánica_ producimos abonos y biofertilizantes orgánicos siguiendo recetas de la agricultura regenerativa. Nuestros productos son buenos para la tierra, las personas, la cosecha y el bolsillo del agricultor.
 
 ## Productos
 
