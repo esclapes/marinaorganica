@@ -1,6 +1,6 @@
 ---
 title: Bocashi de gallinaza
-price: desde 0.30 €/Kg
+price: desde 0.15 €/Kg
 weight: 1
 layout: producto
 ---
